@@ -47,7 +47,7 @@ AWS Console에서의 활동을 실시간으로 모니터링하고 Amazon Q를 �
 - `GET /`: AmazonQ Test용 웹 인터페이스
 - `POST /errors`: 에러 로그 수집
 
-## 동영상 데모(수정 예정)
+## 동영상 데모
 ![Image](https://github.com/user-attachments/assets/e801d7ee-32e4-4445-95d6-40c793fa5d0b)
 
 ## 리소스 배포하기(Client Side)
